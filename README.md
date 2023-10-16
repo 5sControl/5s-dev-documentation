@@ -1,2 +1,1 @@
-# 5s-dev-documentation
-Documentation for developers for 5controlS platform
+### Read [the Wiki](https://github.com/5sControl/5s-dev-documentation/wiki) for the documentation for developers.
